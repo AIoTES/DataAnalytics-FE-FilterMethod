@@ -1,0 +1,2 @@
+REST_URL = '0.0.0.0'
+REST_PORT = 5000
